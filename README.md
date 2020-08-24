@@ -1,1 +1,1 @@
-# Mercury2
+# Mercury
